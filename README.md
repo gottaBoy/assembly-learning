@@ -144,4 +144,12 @@ https://cloverkit.dev/2020/02/25/iTerm2-%E7%BB%88%E7%AB%AF%E7%BE%8E%E5%8C%96%E6%
 https://evian-zhang.github.io/articles/Assembly/macOS%E4%B8%8A%E7%9A%84%E6%B1%87%E7%BC%96%E5%85%A5%E9%97%A8%EF%BC%88%E4%BA%94%EF%BC%89%E2%80%94%E2%80%94%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B1%87%E7%BC%96%E7%A8%8B%E5%BA%8F.html
 https://www.cnblogs.com/mysweetAngleBaby/p/17113118.html
 
+
+https://fengmuzi2003.gitbook.io/csapp3e
+https://github.com/0voice/k8s_awesome_document
+https://www.cnblogs.com/gnivor/p/15608515.html
+https://zhuanlan.zhihu.com/p/272135463
+https://www.freedos.org/download/
+https://github.com/tidb-incubator/tidb-in-action
+
 ```
