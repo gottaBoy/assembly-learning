@@ -121,3 +121,27 @@ code ends;代码段结束
 - [floppybird](https://github.com/icebreaker/floppybird)
 - [asmbook](http://www.genie52.com/asmbook/cover.html)
 - [modern-x86-assembly-language-programming-3e](https://github.com/Apress/modern-x86-assembly-language-programming-3e)
+
+### 其他链接
+```shell
+https://github.com/icebreaker/floppybird
+https://github.com/Apress/modern-x86-assembly-language-programming-3e
+https://github.com/meihao1203/Greedy_Snake
+https://github.com/oded8bit/Assembly-Lib
+https://github.com/FriendLey/assembly-language-learning
+https://github.com/lichuang/x86-asm-book-source
+https://github.com/LeechanX/My-Compiler-Designer
+https://github.com/luice/BUAA-Compiler-Pascal-to-x86
+https://github.com/wangjunstf/TCP-IP-Network-Note
+https://github.com/blueSky1825821/8086assembly
+https://www.yuque.com/wangmin-giwdv/lh8d33/bg04id?#%20%E3%80%8A8086%E3%80%8B
+https://github.com/Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac
+https://github.com/Evian-Zhang/Assembly-on-macOS
+https://gitee.com/chen-lifeng20040204/typing_asm
+https://www.cnblogs.com/mysweetAngleBaby/p/17113118.html
+https://github.com/cloudwego/volo
+https://cloverkit.dev/2020/02/25/iTerm2-%E7%BB%88%E7%AB%AF%E7%BE%8E%E5%8C%96%E6%8C%87%E5%8C%97/
+https://evian-zhang.github.io/articles/Assembly/macOS%E4%B8%8A%E7%9A%84%E6%B1%87%E7%BC%96%E5%85%A5%E9%97%A8%EF%BC%88%E4%BA%94%EF%BC%89%E2%80%94%E2%80%94%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B1%87%E7%BC%96%E7%A8%8B%E5%BA%8F.html
+https://www.cnblogs.com/mysweetAngleBaby/p/17113118.html
+
+```
